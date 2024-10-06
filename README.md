@@ -1,16 +1,16 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b>Chemistry
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> Chemistry-1
+<b> Experiment|     <b> Exp.No.5 Rate constant and activation energy of potassium permanganate and oxalic acid reaction
 
 ### About the Experiment 
 
 Fill a brief description of this experiment here
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Name of Developer | <b> PRATIK SEN
 :--|:--|
 <b> Institute | <b>  
 <b> Email id|     <b>  
@@ -20,5 +20,12 @@ Fill a brief description of this experiment here
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
-2 | . | . | . | . | .
+01 | ANUPAM VYAS| FACULTY | EEC | INSTITUTE OF ENGINEERING & TECHNOLOGY, BUNDELKHAND UNIVERSITY,JHANSI| .
+02 | ANJALI SRIVASTAVA| FACULTY | EEC | INSTITUTE OF ENGINEERING & TECHNOLOGY, BUNDELKHAND UNIVERSITY,JHANSI| .
+03 | SHUBHAM SRIVASTAVA| STUDENT | MASTERS OF COMPUTER APPLICATION | INSTITUTE OF INFORMATION & TECHNOLOGY, BUNDELKHAND UNIVERSITY,JHANSI| shubhamsri708161@gmail.com
+04 | MOHAMMAD SHOAIB KHAN| STUDENT | MASTERS OF COMPUTER APPLICATION | INSTITUTE OF INFORMATION & TECHNOLOGY,BUNDELKHAND UNIVERSITY,JHANSI| khanmdshoaib8@gmail.com
+05 | SHIKHA GUPTA| STUDENT | MASTERS OF COMPUTER APPLICATION | INSTITUTE OF INFORMATION & TECHNOLOGY,BUNDELKHAND UNIVERSITY,JHANSI| shikhabhu099@gmail.com
+
+
+   
+
